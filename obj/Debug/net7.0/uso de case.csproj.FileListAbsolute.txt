@@ -1,0 +1,15 @@
+C:\Users\arcea\Desktop\uso de case\bin\Debug\net7.0\uso de case.exe
+C:\Users\arcea\Desktop\uso de case\bin\Debug\net7.0\uso de case.deps.json
+C:\Users\arcea\Desktop\uso de case\bin\Debug\net7.0\uso de case.runtimeconfig.json
+C:\Users\arcea\Desktop\uso de case\bin\Debug\net7.0\uso de case.dll
+C:\Users\arcea\Desktop\uso de case\bin\Debug\net7.0\uso de case.pdb
+C:\Users\arcea\Desktop\uso de case\obj\Debug\net7.0\uso de case.csproj.AssemblyReference.cache
+C:\Users\arcea\Desktop\uso de case\obj\Debug\net7.0\uso de case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arcea\Desktop\uso de case\obj\Debug\net7.0\uso de case.AssemblyInfoInputs.cache
+C:\Users\arcea\Desktop\uso de case\obj\Debug\net7.0\uso de case.AssemblyInfo.cs
+C:\Users\arcea\Desktop\uso de case\obj\Debug\net7.0\uso de case.csproj.CoreCompileInputs.cache
+C:\Users\arcea\Desktop\uso de case\obj\Debug\net7.0\uso de case.dll
+C:\Users\arcea\Desktop\uso de case\obj\Debug\net7.0\refint\uso de case.dll
+C:\Users\arcea\Desktop\uso de case\obj\Debug\net7.0\uso de case.pdb
+C:\Users\arcea\Desktop\uso de case\obj\Debug\net7.0\uso de case.genruntimeconfig.cache
+C:\Users\arcea\Desktop\uso de case\obj\Debug\net7.0\ref\uso de case.dll
